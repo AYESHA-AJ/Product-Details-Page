@@ -1,6 +1,4 @@
 # Product-Details-Page
  A simple product details page using HTML CSS and Javascript
-<div style="width:260px;max-width:100%;">
 
- <p><a href="https://imgflip.com/gif/8h2jwc">via Imgflip</a></p>
-</div>
+![8h2kwy](https://github.com/AYESHA-AJ/Product-Details-Page/assets/71628013/81a11f8e-6d78-4630-b99f-affb38d49f5a)
